@@ -1,6 +1,6 @@
 # NEARGravity Semantic Guard - Hackathon Demo
 
-![NEARGravity](./resource/NearGravity.jpeg)
+![NEARGravity](./resource/neargravity.jpeg)
 
 A complete integration of NearGravity's RAG system with NEAR blockchain for semantic analysis and misinformation detection.
 

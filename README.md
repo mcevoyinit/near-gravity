@@ -2,7 +2,7 @@
 
 ![NEARGravity](./resource/neargravity.jpeg)
 
-A complete integration of NearGravity's RAG system with NEAR blockchain for semantic analysis and misinformation detection.
+On-chain Semantic Intelligence and Misinformation Detection via RAG and NEAR Protocol
 
 ## Project Overview
 

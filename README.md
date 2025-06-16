@@ -1,4 +1,4 @@
-# NEARGravity Semantic Guard - Hackathon Demo
+# NEARGravity Semantic Guard
 
 ![NEARGravity](./resource/neargravity.jpeg)
 

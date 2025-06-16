@@ -4,6 +4,8 @@
 
 On-chain Semantic Intelligence and Misinformation Detection via RAG and NEAR Protocol
 
+**Graphic Presentation**: https://gamma.app/docs/Semantic-AI-Blockchain-Agents-for-Verifiable-Truth-wgzd4b16l3ok4jt?mode=doc
+
 ## Project Overview
 
 This hackathon submission combines:

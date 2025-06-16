@@ -1,0 +1,205 @@
+{
+  "inj_1749164283164": {
+    "bid_amount": 0.003,
+    "tags": [
+      "coffee",
+      "morning"
+    ]
+  },
+  "inj_1749164641406": {
+    "bid_amount": 0.003
+  },
+  "inj_1749164840711": {
+    "bid_amount": 0.002,
+    "tags": [
+      "coffee",
+      "morning",
+      "premium",
+      "ethical"
+    ],
+    "category": "coffee"
+  },
+  "inj_1749193871201": {
+    "bid_amount": 0.003
+  },
+  "inj_1749194128849": {
+    "bid_amount": 0.002,
+    "tags": [
+      "coffee",
+      "morning",
+      "premium",
+      "ethical"
+    ],
+    "category": "coffee"
+  },
+  "inj_1749194638135": {
+    "bid_amount": 0.005
+  },
+  "inj_1749194740712": {
+    "bid_amount": 0.002,
+    "tags": [
+      "coffee",
+      "morning",
+      "premium",
+      "ethical"
+    ],
+    "category": "coffee"
+  },
+  "inj_1749210431125": {
+    "bid_amount": 0.002,
+    "tags": [
+      "coffee",
+      "morning",
+      "premium",
+      "ethical"
+    ],
+    "category": "coffee"
+  },
+  "inj_1749327439212": {
+    "bid_amount": 0.002,
+    "tags": [
+      "coffee",
+      "morning",
+      "premium",
+      "ethical"
+    ],
+    "category": "coffee"
+  },
+  "inj_1749331023676": {
+    "bid_amount": 0.002,
+    "tags": [
+      "coffee",
+      "morning",
+      "premium",
+      "ethical"
+    ],
+    "category": "coffee"
+  },
+  "inj_1749331150839": {
+    "bid_amount": 1,
+    "tags": [],
+    "category": "general"
+  },
+  "inj_1749331213029": {
+    "bid_amount": 0,
+    "tags": [],
+    "category": "general"
+  },
+  "inj_1749331846512": {
+    "bid_amount": 0.002,
+    "tags": [
+      "coffee",
+      "morning",
+      "premium",
+      "ethical"
+    ],
+    "category": "coffee"
+  },
+  "inj_1749331893337": {
+    "bid_amount": 0,
+    "tags": [],
+    "category": "general"
+  },
+  "inj_1749333764222": {
+    "bid_amount": 0.002,
+    "tags": [
+      "coffee",
+      "morning",
+      "premium",
+      "ethical"
+    ],
+    "category": "coffee"
+  },
+  "inj_1749334378855": {
+    "bid_amount": 0.002,
+    "tags": [
+      "coffee",
+      "morning",
+      "premium",
+      "ethical"
+    ],
+    "category": "coffee"
+  },
+  "inj_1749334423296": {
+    "bid_amount": 0,
+    "tags": [],
+    "category": "general"
+  },
+  "inj_1749337043506": {
+    "bid_amount": 0.003,
+    "tags": [
+      "coffee",
+      "morning",
+      "energy",
+      "premium"
+    ],
+    "category": "beverages",
+    "location": "SF Bay Area"
+  },
+  "inj_1749337056707": {
+    "bid_amount": 0.005,
+    "tags": [
+      "database",
+      "developer",
+      "tools",
+      "productivity"
+    ],
+    "category": "software",
+    "target_audience": "developers"
+  },
+  "inj_1749337063775": {
+    "bid_amount": 0.004,
+    "tags": [
+      "fitness",
+      "home",
+      "workout",
+      "equipment"
+    ],
+    "category": "health",
+    "price_range": "premium"
+  },
+  "inj_1749337064410": {
+    "bid_amount": 0.002,
+    "tags": [
+      "coffee",
+      "morning",
+      "premium",
+      "ethical"
+    ],
+    "category": "coffee"
+  },
+  "inj_1749337073309": {
+    "bid_amount": 0.01,
+    "tags": [
+      "crypto",
+      "trading",
+      "investment"
+    ],
+    "category": "finance"
+  },
+  "inj_1749337085217": {
+    "bid_amount": 1,
+    "tags": [],
+    "category": "general"
+  },
+  "inj_1749337179781": {
+    "bid_amount": 0.002,
+    "tags": [
+      "coffee",
+      "morning",
+      "premium",
+      "ethical"
+    ],
+    "category": "coffee"
+  },
+  "inj_1749337230186": {
+    "bid_amount": 0,
+    "tags": [],
+    "category": "general"
+  },
+  "inj_1749337302288": {
+    "bid_amount": 0,
+    "tags": [],
+    "category": "general"
+  }
+}

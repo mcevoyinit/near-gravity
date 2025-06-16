@@ -1,0 +1,335 @@
+{
+  "inj_1749164283164": {
+    "message_id": "inj_1749164283164",
+    "content": "Start your morning with Blue Bottle Coffee premium beans",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.003,
+      "tags": [
+        "coffee",
+        "morning"
+      ]
+    }
+  },
+  "inj_1749164641406": {
+    "message_id": "inj_1749164641406",
+    "content": "Blue Bottle Coffee premium beans for morning energy",
+    "provider_id": "coffee",
+    "metadata": {
+      "bid_amount": 0.003
+    }
+  },
+  "inj_1749164840711": {
+    "message_id": "inj_1749164840711",
+    "content": "Download headspace the best meditation app on the planet.  ",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.002,
+      "tags": [
+        "coffee",
+        "morning",
+        "premium",
+        "ethical"
+      ],
+      "category": "coffee"
+    }
+  },
+  "inj_1749193871201": {
+    "message_id": "inj_1749193871201",
+    "content": "Blue Bottle Coffee premium beans for morning energy and focus",
+    "provider_id": "coffee",
+    "metadata": {
+      "bid_amount": 0.003
+    }
+  },
+  "inj_1749194128849": {
+    "message_id": "inj_1749194128849",
+    "content": "Try our premium Colombian coffee beans for the perfect morning brew! Ethically sourced, expertly roasted.",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.002,
+      "tags": [
+        "coffee",
+        "morning",
+        "premium",
+        "ethical"
+      ],
+      "category": "coffee"
+    }
+  },
+  "inj_1749194638135": {
+    "message_id": "inj_1749194638135",
+    "content": "Start your morning with premium Blue Bottle Coffee for energy and focus",
+    "provider_id": "coffee_fresh",
+    "metadata": {
+      "bid_amount": 0.005
+    }
+  },
+  "inj_1749194740712": {
+    "message_id": "inj_1749194740712",
+    "content": "Try our premium Colombian coffee beans for the perfect morning brew! Ethically sourced, expertly roasted.",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.002,
+      "tags": [
+        "coffee",
+        "morning",
+        "premium",
+        "ethical"
+      ],
+      "category": "coffee"
+    }
+  },
+  "inj_1749210431125": {
+    "message_id": "inj_1749210431125",
+    "content": "Try our premium Colombian coffee beans for the perfect morning brew! Ethically sourced, expertly roasted.",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.002,
+      "tags": [
+        "coffee",
+        "morning",
+        "premium",
+        "ethical"
+      ],
+      "category": "coffee"
+    }
+  },
+  "inj_1749327439212": {
+    "message_id": "inj_1749327439212",
+    "content": "Try our premium Colombian coffee beans for the perfect morning brew! Ethically sourced, expertly roasted.",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.002,
+      "tags": [
+        "coffee",
+        "morning",
+        "premium",
+        "ethical"
+      ],
+      "category": "coffee"
+    }
+  },
+  "inj_1749331023676": {
+    "message_id": "inj_1749331023676",
+    "content": "Try our premium Colombian coffee beans for the perfect morning brew! Ethically sourced, expertly roasted.",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.002,
+      "tags": [
+        "coffee",
+        "morning",
+        "premium",
+        "ethical"
+      ],
+      "category": "coffee"
+    }
+  },
+  "inj_1749331150839": {
+    "message_id": "inj_1749331150839",
+    "content": "Try out premium columbian coffee blend",
+    "provider_id": "coffee_shop",
+    "metadata": {
+      "bid_amount": 1,
+      "tags": [],
+      "category": "general"
+    }
+  },
+  "inj_1749331213029": {
+    "message_id": "inj_1749331213029",
+    "content": "try out premium blue been coffee from columbia",
+    "provider_id": "coffee1",
+    "metadata": {
+      "bid_amount": 0,
+      "tags": [],
+      "category": "general"
+    }
+  },
+  "inj_1749331846512": {
+    "message_id": "inj_1749331846512",
+    "content": "Try our premium Colombian coffee beans for the perfect morning brew! Ethically sourced, expertly roasted.",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.002,
+      "tags": [
+        "coffee",
+        "morning",
+        "premium",
+        "ethical"
+      ],
+      "category": "coffee"
+    }
+  },
+  "inj_1749331893337": {
+    "message_id": "inj_1749331893337",
+    "content": "Start your morning with Blue Bottle Coffee premium beans",
+    "provider_id": "coffee",
+    "metadata": {
+      "bid_amount": 0,
+      "tags": [],
+      "category": "general"
+    }
+  },
+  "inj_1749333764222": {
+    "message_id": "inj_1749333764222",
+    "content": "Try our premium Colombian coffee beans for the perfect morning brew! Ethically sourced, expertly roasted.",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.002,
+      "tags": [
+        "coffee",
+        "morning",
+        "premium",
+        "ethical"
+      ],
+      "category": "coffee"
+    }
+  },
+  "inj_1749334378855": {
+    "message_id": "inj_1749334378855",
+    "content": "Try our premium Colombian coffee beans for the perfect morning brew! Ethically sourced, expertly roasted.",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.002,
+      "tags": [
+        "coffee",
+        "morning",
+        "premium",
+        "ethical"
+      ],
+      "category": "coffee"
+    }
+  },
+  "inj_1749334423296": {
+    "message_id": "inj_1749334423296",
+    "content": "Try out free offer on the headspace meditation app",
+    "provider_id": "headspace",
+    "metadata": {
+      "bid_amount": 0,
+      "tags": [],
+      "category": "general"
+    }
+  },
+  "inj_1749337043506": {
+    "message_id": "inj_1749337043506",
+    "content": "Start your day right with Blue Bottle Coffee's single-origin Ethiopian beans. Hand-roasted daily for maximum freshness and energy!",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.003,
+      "tags": [
+        "coffee",
+        "morning",
+        "energy",
+        "premium"
+      ],
+      "category": "beverages",
+      "location": "SF Bay Area"
+    }
+  },
+  "inj_1749337056707": {
+    "message_id": "inj_1749337056707",
+    "content": "JetBrains DataGrip offers advanced database management with intelligent query completion and schema navigation for developers.",
+    "provider_id": "jetbrains",
+    "metadata": {
+      "bid_amount": 0.005,
+      "tags": [
+        "database",
+        "developer",
+        "tools",
+        "productivity"
+      ],
+      "category": "software",
+      "target_audience": "developers"
+    }
+  },
+  "inj_1749337063775": {
+    "message_id": "inj_1749337063775",
+    "content": "Transform your home workouts with Peloton's connected fitness equipment. Live classes, expert instruction, community motivation.",
+    "provider_id": "peloton_fitness",
+    "metadata": {
+      "bid_amount": 0.004,
+      "tags": [
+        "fitness",
+        "home",
+        "workout",
+        "equipment"
+      ],
+      "category": "health",
+      "price_range": "premium"
+    }
+  },
+  "inj_1749337064410": {
+    "message_id": "inj_1749337064410",
+    "content": "Try our premium Colombian coffee beans for the perfect morning brew! Ethically sourced, expertly roasted.",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.002,
+      "tags": [
+        "coffee",
+        "morning",
+        "premium",
+        "ethical"
+      ],
+      "category": "coffee"
+    }
+  },
+  "inj_1749337073309": {
+    "message_id": "inj_1749337073309",
+    "content": "Invest in cryptocurrency with our trading platform. High returns, minimal risk, get rich quick!",
+    "provider_id": "crypto_trader",
+    "metadata": {
+      "bid_amount": 0.01,
+      "tags": [
+        "crypto",
+        "trading",
+        "investment"
+      ],
+      "category": "finance"
+    }
+  },
+  "inj_1749337085217": {
+    "message_id": "inj_1749337085217",
+    "content": "Start your morning with Blue Bottle Coffee premium beans\n",
+    "provider_id": "c",
+    "metadata": {
+      "bid_amount": 1,
+      "tags": [],
+      "category": "general"
+    }
+  },
+  "inj_1749337179781": {
+    "message_id": "inj_1749337179781",
+    "content": "Try our premium Colombian coffee beans for the perfect morning brew! Ethically sourced, expertly roasted.",
+    "provider_id": "blue_bottle_coffee",
+    "metadata": {
+      "bid_amount": 0.002,
+      "tags": [
+        "coffee",
+        "morning",
+        "premium",
+        "ethical"
+      ],
+      "category": "coffee"
+    }
+  },
+  "inj_1749337230186": {
+    "message_id": "inj_1749337230186",
+    "content": "Discover the sleep revolution with our premium mattresses, designed to transform every night into a serene escape. Experience unparalleled comfort with layers of adaptive foam that cradle your body, providing perfect support and alignment. Our mattresses are crafted with breathable materials to keep you cool and refreshed, ensuring a blissful, uninterrupted sleep. Say goodbye to restless nights and awaken rejuvenated, ready to seize the day. Join thousands of satisfied customers who have upgraded their sleep quality. Elevate your bedtime routine with our exceptional mattresses\u2014where luxury meets restorative rest. Sweet dreams await!",
+    "provider_id": "sleep",
+    "metadata": {
+      "bid_amount": 0,
+      "tags": [],
+      "category": "general"
+    }
+  },
+  "inj_1749337302288": {
+    "message_id": "inj_1749337302288",
+    "content": "Discover the sleep revolution with our premium mattresses, designed to transform every night into a serene escape. Experience unparalleled comfort with layers of adaptive foam that cradle your body, providing perfect support and alignment. Our mattresses are crafted with breathable materials to keep you cool and refreshed, ensuring a blissful, uninterrupted sleep. Say goodbye to restless nights and awaken rejuvenated, ready to seize the day. Join thousands of satisfied customers who have upgraded their sleep quality. Elevate your bedtime routine with our exceptional mattresses\u2014where luxury meets restorative rest. Sweet dreams await!",
+    "provider_id": "sleep",
+    "metadata": {
+      "bid_amount": 0,
+      "tags": [],
+      "category": "general"
+    }
+  }
+}
